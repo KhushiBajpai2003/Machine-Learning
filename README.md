@@ -7,7 +7,7 @@ This repository is designed to help you learn and implement different machine le
 
 # File Descriptions
 
-Notebooks
+# Notebooks
 Bank_Marketing_Preprocessing.ipynb: Notebook for preprocessing the Bank Marketing dataset.
 Heart_Data_Preprocessing_and_EDA.ipynb: Notebook for preprocessing and exploratory data analysis on the Heart Disease dataset.
 KNN_SUV.ipynb: Implementation of the K-Nearest Neighbors (KNN) algorithm on an SUV dataset.
@@ -18,7 +18,8 @@ Multiple_Linear_Regression.ipynb: Implementation of Multiple Linear Regression.
 NaiveBayes_RandomForest (1).ipynb: Implementation of Naive Bayes and Random Forest algorithms.
 SVM.ipynb: Implementation of Support Vector Machine (SVM) algorithm.
 Titanic_Decision_Tree.ipynb: Implementation of a Decision Tree on the Titanic dataset.
-Datasets
+
+# Datasets
 bank.csv: Dataset for the Bank Marketing project.
 cars_clus.csv: Dataset for clustering cars.
 heart (1).csv: Dataset for Heart Disease analysis.
@@ -28,9 +29,7 @@ Social_Network_Ads.csv: Dataset for Social Network Ads project.
 titanic.csv: Raw Titanic dataset.
 titanic_processed.csv: Processed Titanic dataset.
 LR_SR.csv: Dataset for Linear Regression and Simple Regression project.
-Other Files
-LICENSE: License for this repository.
-README.md: This file.
+
 Installation
 To run the notebooks, you need to have Python and Jupyter Notebook installed on your system. You can install the required libraries using pip:
 
