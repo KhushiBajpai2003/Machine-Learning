@@ -30,12 +30,12 @@ titanic.csv: Raw Titanic dataset.
 titanic_processed.csv: Processed Titanic dataset.
 LR_SR.csv: Dataset for Linear Regression and Simple Regression project.
 
-Contributing
+# Contributing
 Contributions are welcome! If you have improvements or new notebooks to add, please fork this repository and submit a pull request with your changes.
 
-License
+# License
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+# Acknowledgements
 Special thanks to the open-source community for providing valuable resources and tools.
 Gratitude to the contributors and reviewers who helped enhance this project.
