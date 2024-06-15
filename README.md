@@ -30,32 +30,6 @@ titanic.csv: Raw Titanic dataset.
 titanic_processed.csv: Processed Titanic dataset.
 LR_SR.csv: Dataset for Linear Regression and Simple Regression project.
 
-Installation
-To run the notebooks, you need to have Python and Jupyter Notebook installed on your system. You can install the required libraries using pip:
-
-sh
-Copy code
-pip install -r requirements.txt
-Note: Ensure you have all the necessary libraries installed as specified in the notebooks.
-
-Usage
-Clone the repository:
-
-sh
-Copy code
-git clone https://github.com/yourusername/ml-repository.git
-cd ml-repository
-Run Jupyter Notebook:
-
-sh
-Copy code
-jupyter notebook
-Open a notebook:
-In the Jupyter Notebook interface, navigate to the desired notebook (e.g., Bank_Marketing_Preprocessing.ipynb) and open it.
-
-Run the cells:
-Execute the cells in the notebook sequentially to see the results and understand the implementation.
-
 Contributing
 Contributions are welcome! If you have improvements or new notebooks to add, please fork this repository and submit a pull request with your changes.
 
